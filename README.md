@@ -4,7 +4,12 @@ A 3D endless runner built in Unity. You play a raccoon sprinting through changin
 
 This is my first game project. I built it to learn Unity and C#, so it's still growing.
 
+Pause Screen
+
 <img width="1586" height="895" alt="image" src="https://github.com/user-attachments/assets/ae8d93ec-e5ce-4a31-b494-e72db5f23215" />
+
+Game Over Screen
+
 <img width="1581" height="881" alt="image" src="https://github.com/user-attachments/assets/9936f266-da30-4ef4-960b-0d133a29eb76" />
 
 
