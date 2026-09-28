@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9fe9ba9d26f6a544fbb02b1e945872f8
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90110
+  packageName: 'Poly Art: Raccoon'
+  packageVersion: 4.0
+  assetPath: Assets/Malbers Animations/Common/Shaders/Amplify Shader Editor/Mask8Realistic.shader
+  uploadId: 781998

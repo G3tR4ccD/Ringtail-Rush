@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e45989842633fd9409e93c87172b5647
+timeCreated: 1535065817
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90110
+  packageName: 'Poly Art: Raccoon'
+  packageVersion: 4.0
+  assetPath: Assets/Malbers Animations/Animals Packs/01 Forest Pack/Raccoon/Materials
+    & Textures/Poly Art/RaccoonPA Gray.mat
+  uploadId: 781998

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3acb32e32db84584badf3b97aa2f88b2
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90110
+  packageName: 'Poly Art: Raccoon'
+  packageVersion: 4.0
+  assetPath: Assets/Malbers Animations/Common/Shaders/Amplify Shader Editor/AnisotropicWard.shader
+  uploadId: 781998

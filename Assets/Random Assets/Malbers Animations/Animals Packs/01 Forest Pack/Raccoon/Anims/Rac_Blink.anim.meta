@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 67984701bbdd409499f2668beaf1a958
+timeCreated: 1535067118
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90110
+  packageName: 'Poly Art: Raccoon'
+  packageVersion: 4.0
+  assetPath: Assets/Malbers Animations/Animals Packs/01 Forest Pack/Raccoon/Anims/Rac_Blink.anim
+  uploadId: 781998

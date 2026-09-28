@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fa3367d7bb417404e84f6e560b9563e0
+timeCreated: 1535067649
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90110
+  packageName: 'Poly Art: Raccoon'
+  packageVersion: 4.0
+  assetPath: Assets/Malbers Animations/Animals Packs/01 Forest Pack/Raccoon/Anims/Rac_Closed.anim
+  uploadId: 781998

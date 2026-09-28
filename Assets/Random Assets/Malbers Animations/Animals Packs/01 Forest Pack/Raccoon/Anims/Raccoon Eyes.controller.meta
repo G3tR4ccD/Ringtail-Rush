@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a68228626fdce934dbd134326d014bad
+timeCreated: 1475815865
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90110
+  packageName: 'Poly Art: Raccoon'
+  packageVersion: 4.0
+  assetPath: Assets/Malbers Animations/Animals Packs/01 Forest Pack/Raccoon/Anims/Raccoon
+    Eyes.controller
+  uploadId: 781998
