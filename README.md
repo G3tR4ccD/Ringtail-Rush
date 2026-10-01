@@ -73,10 +73,6 @@ This is a work in progress. Here's what works and what doesn't yet.
 - Only one of four planned power-ups is built. Jung Magnet, Trash Tornado, and Bubble Wrap are placeholders.
 - `FrontTrigger.cs` is unused and can be removed.
 
-## How I built it
-
-I built most of this by following Unity tutorials. When I got stuck, I asked Claude for help, then tested and adjusted the results in my own project. Using both is how I learned the basics quickly.
-
 ## What I learned
 
 - Splitting a game into small scripts that each do one job.
